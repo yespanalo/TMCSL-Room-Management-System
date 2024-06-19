@@ -1,0 +1,27 @@
+.navbar-custom {
+  background-color: rgb(31, 81, 124);
+}
+
+.sidebar {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.sidebar .nav-link {
+  color: #333;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.navbar-brand {
+  z-index: 9999;
+}
+
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: lightgray;
+}
